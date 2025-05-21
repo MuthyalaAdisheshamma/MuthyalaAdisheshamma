@@ -29,9 +29,9 @@ Git, GitHub, VS Code, Eclipse, SQL Plus, Postman
 |--------|-------------|------------|
 | 🔐 **User Sign-in and Login System** | Developed a user authentication system using Java as part of a web app. Features a Sign-in page for registration and Login page for authentication, with user data securely stored in MySQL. Post-login, users are redirected to a Home page displaying their details. The system follows MVC architecture and ensures session management to restrict access to authenticated users. | Java, JSP/Servlets, JDBC, MySQL |
 | 📋 **Task Manager** | A CRUD app for managing tasks (Create, Read, Update, Delete). | Spring Boot, Thymeleaf, MySQL |
-| 🌐 **Personal Portfolio Website** | A static responsive website to showcase my skills and projects. | HTML, CSS, JavaScript |
 
 > 💡 *More projects coming soon!*
+
 
 ---
 

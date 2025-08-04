@@ -6,19 +6,19 @@ I'm an aspiring **Java Full Stack Developer** with a passion for building web ap
 
 ## 🚀 Skills
 
-**Languages:**
+**Languages:**  
 Java (Core & Advanced), SQL, JavaScript
 
-**Frameworks & Libraries:**
+**Frameworks & Libraries:**  
 Spring, Spring Boot, Hibernate
 
-**Frontend Technologies:**
+**Frontend Technologies:**  
 HTML, CSS, JavaScript, React.js
 
-**Databases:**
-MySQL, PostgreSQL
+**Databases:**  
+SQL
 
-**Tools & Platforms:**
+**Tools & Platforms:**  
 Git, GitHub, VS Code, Eclipse, Postman, SQL Plus
 
 ---
@@ -35,7 +35,7 @@ Git, GitHub, VS Code, Eclipse, Postman, SQL Plus
 
 ## 📄 Resume
 
-[📥 Download my Resume](https://github.com/MuthyalaAdisheshamma/Resume/raw/a62a0ee32c62f3cb4308628a0fe688f780ebd96c/Resume.pdf)
+[📥 Download my Updated Resume](https://github.com/MuthyalaAdisheshamma/MuthyalaAdisheshammaResume/raw/main/Adisheshamma_Resume_2025.pdf)
 
 ---
 
